@@ -1,4 +1,4 @@
 
 abc<- raw_data
-abc
+view(abc)
 
