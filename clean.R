@@ -5,3 +5,4 @@ data123
 dim(data123)
 names(data123)
 x<-raw_data$Gender
+x
