@@ -17,7 +17,7 @@
         {
             "ports": [
                 {
-                    "input": "satisfactionSurvey.csv",
+                    "input": "raw_data",
                     "type": "csv"
                 }
             ],
@@ -36,6 +36,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-12-06 10:28:03",
+    "updated_at": "2018-12-06 10:29:22",
     "url": "https://github.com/fall2018-saltz/exploratory"
 }
